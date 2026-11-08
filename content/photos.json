@@ -1,0 +1,7 @@
+[
+  { "id": "mist-1", "hikeSlug": "mist-ridge-2026-08", "url": "/photos/placeholder.svg", "alt": "Hikers on the ridge at sunrise", "consent": true },
+  { "id": "mist-2", "hikeSlug": "mist-ridge-2026-08", "url": "/photos/placeholder.svg", "alt": "Group photo near the summit", "consent": false },
+  { "id": "falls-1", "hikeSlug": "hollow-falls-2026-09", "url": "/photos/placeholder.svg", "alt": "The waterfall pool", "consent": true },
+  { "id": "peak-1", "hikeSlug": "ghost-peak-2026-10", "url": "/photos/placeholder.svg", "alt": "The last climb before the peak", "consent": true },
+  { "id": "peak-2", "hikeSlug": "ghost-peak-2026-10", "url": "/photos/placeholder.svg", "alt": "Hikers resting at the top", "consent": true }
+]

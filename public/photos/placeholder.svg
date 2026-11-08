@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Placeholder photo">
+  <rect width="1200" height="800" fill="#1f2a24"/>
+  <path d="M0 640 L260 360 L420 520 L640 240 L900 560 L1040 440 L1200 620 L1200 800 L0 800 Z" fill="#33453b"/>
+  <text x="600" y="130" font-family="sans-serif" font-size="44" fill="#9fb5a8" text-anchor="middle">Placeholder photo</text>
+</svg>

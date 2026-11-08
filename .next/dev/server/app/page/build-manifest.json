@@ -1,0 +1,43 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0jq4_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1hzwhiz42tavl._.js",
+    "static/chunks/0jq4_next_dist_compiled_react-dom_cjs_react-dom-client_development_1lrmt6a63sbs3.js",
+    "static/chunks/0jq4_next_dist_compiled_react-dom_cjs_react-dom_development_1k8pfvxutpr0a.js",
+    "static/chunks/0jq4_next_dist_compiled_react-dom_1couv46e78j66._.js",
+    "static/chunks/0jq4_next_dist_compiled_react-server-dom-turbopack_0hhkcl2c8xn7f._.js",
+    "static/chunks/0jq4_next_dist_compiled_next-devtools_index_0atrzp-rs6_8w.js",
+    "static/chunks/0jq4_next_dist_compiled_062rt4vqsxk9r._.js",
+    "static/chunks/0jq4_next_dist_client_21aq6oha0tssr._.js",
+    "static/chunks/0jq4_next_dist_02qdee1zf04jh._.js",
+    "static/chunks/0zix_@swc_helpers_cjs_0hi-e474n4mns._.js",
+    "static/chunks/_1anvha4rlo79g._.js",
+    "static/chunks/turbopack-_1cijlg0f6wobu._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": [],
+  "rootMainFilesTree": {
+    "/page": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_1hzwhiz42tavl._.js",
+      "static/chunks/0jq4_next_dist_compiled_react-dom_cjs_react-dom-client_development_1lrmt6a63sbs3.js",
+      "static/chunks/0jq4_next_dist_compiled_react-dom_cjs_react-dom_development_1k8pfvxutpr0a.js",
+      "static/chunks/0jq4_next_dist_compiled_react-dom_1couv46e78j66._.js",
+      "static/chunks/0jq4_next_dist_compiled_react-server-dom-turbopack_0hhkcl2c8xn7f._.js",
+      "static/chunks/0jq4_next_dist_compiled_next-devtools_index_0atrzp-rs6_8w.js",
+      "static/chunks/0jq4_next_dist_compiled_062rt4vqsxk9r._.js",
+      "static/chunks/0jq4_next_dist_client_21aq6oha0tssr._.js",
+      "static/chunks/0jq4_next_dist_02qdee1zf04jh._.js",
+      "static/chunks/0zix_@swc_helpers_cjs_0hi-e474n4mns._.js",
+      "static/chunks/_1anvha4rlo79g._.js",
+      "static/chunks/turbopack-_1cijlg0f6wobu._.js",
+      "static/chunks/_219uq1sj0q91c._.js"
+    ]
+  },
+  "pagesChunkGroupBootstrapParams": {},
+  "chunkLoadingGlobal": "TURBOPACK"
+}
